@@ -204,7 +204,7 @@ int main()
 
 
 // hello world
-
+// my name is ayush
 /*
 input for glider gun
 6 2 1
